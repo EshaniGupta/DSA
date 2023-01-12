@@ -4,7 +4,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// arr[0..n-1] represents sizes of packets, m is number of students.
+// arr[] represents sizes of packets, m is number of students.
 // Returns minimum difference between maximum and minimum values of distribution.
 
 int main()
