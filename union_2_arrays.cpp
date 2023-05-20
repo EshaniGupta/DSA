@@ -33,6 +33,9 @@ int main()
         }
         
         cout << map.size() << endl; //print the size of the map
+        for (auto i : map){
+        cout << i.first << " \t\t\t " << i.second << endl;
+   }
     }
 
     return 0;
